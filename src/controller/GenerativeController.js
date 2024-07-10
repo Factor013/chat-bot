@@ -50,11 +50,15 @@ const chat = model.startChat({
     history:[
         {
             role:"user",
-            parts:[{text: "Olá voce é um vendedor da minha loja e vai vender meus produtos: "}]
+            parts:[{text: "Olá voce é um vendedor da minha loja e vai vender meus produtos"}]
         },
         {
             role:"user",
             parts:[{ text: "Meus produtos são:" + productsJSON }]
+        },
+        {
+            role:"user",
+            parts:[{ text: "NÃO RESPONDA PERGUNTAS FORA DO CONTEXTO" }]
         },
         {
             role:"user",
