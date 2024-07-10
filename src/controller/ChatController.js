@@ -60,6 +60,10 @@ const chat = model.startChat({
         },
         {
             role:"user",
+            parts:[{ text: "Não responda perguntas fora do contexto de vendas sobre os meus produtos, qualquer pergunta fora do contexto de vendas ignore"}]
+        },
+        {
+            role:"user",
             parts:[{ text: "use uma linguagem natural, de facil compreensão e o preço é em REAL caso tenha outros paises faça a conversão do preço da peça"}]
         }
     ],
