@@ -6,10 +6,6 @@
 
 Simple chatbot using Gemini AI API.
 
-<p align="center">
-<img src="https://images2.imgbox.com/3b/d7/nQF4zlnf_o.jpeg" alt="image host"/>
-</p>
-
 More instructions coming soon...
 
 ##
