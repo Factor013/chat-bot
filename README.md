@@ -8,5 +8,3 @@ Simple chatbot using Gemini AI API.
 
 More instructions coming soon...
 
-##
-<a href="https://www.buymeacoffee.com/Factor013" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 197px !important;" ></a>
