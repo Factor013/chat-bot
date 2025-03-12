@@ -1,7 +1,6 @@
 <h1 align="center"> Chat Bot using API Gemini</h1>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/.NetDesktop%20-%20grey?label=C%23&labelColor=purple"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/1.0.0%20-%20grey?label=Version&labelColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/NodeJs-V_1.0-grey?logoColor=grey&labelColor=green">
 </p>
 
 Simple chatbot using Gemini AI API.
